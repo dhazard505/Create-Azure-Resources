@@ -8,7 +8,7 @@ Creating an Azure resource group and adding virtual machines connected together 
 
 <h2>Video Demonstration</h2>
 
-- ### Creating Azure Resources](https://youtu.be/shyzLqL1awA?si=btc8YfPTrwYpb0um)
+- ### [Creating Azure Resources](https://youtu.be/shyzLqL1awA?si=btc8YfPTrwYpb0um)
 
 <h2>Environments and Technologies Used</h2>
 
