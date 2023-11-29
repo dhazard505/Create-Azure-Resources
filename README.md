@@ -14,9 +14,7 @@ Creating an Azure resource group and adding virtual machines connected together 
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-- Wireshark (Protocol Analyzer)
+
 
 <h2>Operating Systems Used </h2>
 
@@ -25,10 +23,10 @@ Creating an Azure resource group and adding virtual machines connected together 
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1 Create a resource group 
+- Step 2 Create a virtual network
+- Step 3 Create the VMs (virtual machines)
+
 
 <h2>Actions and Observations</h2>
 
