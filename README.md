@@ -34,7 +34,7 @@ Creating an Azure resource group and adding virtual machines connected together 
 <img src="https://github.com/dhazard505/dhazard505/blob/main/2023-12-01.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this screenshot I am creating a resource group that will act as logical container for all related resources.
+In this screenshot I am creating a resource group that will act as a logical container for all related resources.
 </p>
 <br />
 
