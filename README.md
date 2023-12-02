@@ -39,10 +39,10 @@ In this screenshot I am creating a resource group that will act as a logical con
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/dhazard505/dhazard505/blob/main/2023-12-01%20(1).png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This is a screenshot of the creation of a virtual machine called VM2. This virtual machine is running Ubuntu 22.04. 
 </p>
 <br />
 
