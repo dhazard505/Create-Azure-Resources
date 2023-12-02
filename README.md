@@ -47,9 +47,9 @@ This is a screenshot of the creation of a virtual machine called VM2. This virtu
 <br />
 https://github.com/dhazard505/Create-Azure-Resources/blob/main/2023-12-01%20(2).png
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/dhazard505/Create-Azure-Resources/blob/main/2023-12-01%20(2).png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here I have created a virtual network so that the two virtual machines would be able to communicate with each other because thay are on the same subnet.
 </p>
 <br />
