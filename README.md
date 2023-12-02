@@ -45,7 +45,7 @@ In this screenshot I am creating a resource group that will act as a logical con
 This is a screenshot of the creation of a virtual machine called VM2. This virtual machine is running Ubuntu 22.04. 
 </p>
 <br />
-
+https://github.com/dhazard505/Create-Azure-Resources/blob/main/2023-12-01%20(2).png
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
