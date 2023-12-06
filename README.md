@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.pcmag.com/imagery/reviews/04hAlUkn5TfWzY64NOsbIe6-7.fit_scale.size_1028x578.v1569482813.jpg" alt="Traffic Examination"/>
+<img src="https://www.lexiconbranding.com/wp-content/uploads/2023/06/Azure-hero.jpg" alt="Traffic Examination"/>
 </p>
 
 <h1>Creating Azure Resources and Virtual Machines</h1>
